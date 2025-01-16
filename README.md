@@ -3,9 +3,9 @@
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 🌱 I’m currently learning **Web devlopment, API devlopment**
+- 🌱 I’m currently learning **Backend devlopment, API devlopment**
 
-- 💬 Ask me about **web,python.**
+- 💬 Ask me about **Frontend, Backend,APi,Ai Integration.**
 
 - 📫 How to reach me **amolgawade56@gmail.com**
 
